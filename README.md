@@ -1,5 +1,7 @@
 # 💫 About Me:
-🌱 I’m currently learning PLC & Circuit Design<br>🔭 I’m currently working on tools with Tinkercad Circuits and Multisim<br>🤝 I’m looking for help with Embedded C<br><br>
+I’m currently learning PLC & Circuit Design<br>
+I’m currently working on tools with Tinkercad Circuits and Multisim<br>
+I’m looking for help with Embedded C<br><br>
 
 
 ## 🌐 Socials:
