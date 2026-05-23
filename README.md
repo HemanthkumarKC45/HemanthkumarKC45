@@ -1,9 +1,9 @@
 # 💫 About Me:
-I’m currently learning PLC & Circuit Design<br>
-Check out my resume here - https://ap.wps.com/cms/docs/d/cbCaeaS04FrcvH36<br>
-I’m currently working on tools with Tinkercad Circuits and Multisim<br>
-I’m looking for help with Embedded C<br><br>
-Reach out to me at hemanth31917@gmail.com<br>
+🌱 I’m currently learning PLC & Circuit Design<br><br>
+📁Check out my resume here - https://ap.wps.com/cms/docs/d/cbCaeaS04FrcvH36<br><br>
+🔭I’m currently working on tools with Tinkercad Circuits and Multisim<br><br>
+🤝I’m looking for help with Embedded C<br><br>
+📧 Reach out to me at hemanth31917@gmail.com<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hemanth Kumar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hemanth_kumar_kc17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HEMANTHKUMAR K C) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hemanthkc17) 
