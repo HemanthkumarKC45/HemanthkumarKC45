@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning PLC & Circuit Design<br><br>
-📁Check out my resume here - (https://in.docworkspace.com/d/sbCaed5COEN5YFXc_0hunstanstejg9a3kt?sa=601.1037)<br><br>
+📁Check out my resume here - [Resume](https://in.docworkspace.com/d/sbCaed5COEN5YFXc_0hunstanstejg9a3kt?sa=601.1037)<br><br>
 🔭I’m currently working on tools with Tinkercad Circuits and Multisim<br><br>
 🤝I’m looking for help with Embedded C<br><br>
 📧 Reach out to me at hemanth31917@gmail.com<br>
